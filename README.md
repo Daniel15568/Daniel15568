@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Daniel15568
-- 👀 I’m interested in hacking
+- 👋 Hi, I’m @Daniel
+- 👀 I’m interested in data science 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any hacking job
 - 📫 How to reach me just here
