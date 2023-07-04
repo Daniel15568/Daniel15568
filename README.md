@@ -3,6 +3,6 @@
 - 📫 You can reach out to me via my
 - 1danielemakporuena@gmail.com.
 
-- I'm looking to collab on a project in relating fields.
+- I'm looking to collab on any project in relating fields.
 - Open to offers 
 --->
