@@ -8,13 +8,13 @@ I am a data scientist with a strong background in machine learning, statistical 
 
 **My Skills**
 
-*Programming Languages**: Python,SQL
+*Programming Languages*: Python,SQL
 
-*Machine Learning**: Regression, Classification, Clustering, Neural Networks.
+*Machine Learning*: Regression, Classification, Clustering, Neural Networks.
 
-*Data Visualization**: Matplotlib, Seaborn, PowerBI.
+*Data Visualization*: Matplotlib, Seaborn, PowerBI.
 
-*Data Wrangling**: Pandas, Numpy, Data Cleaning, ETL Processes.
+*Data Wrangling*: Pandas, Numpy, Data Cleaning, ETL Processes.
 
  **My Philosophy**
         
