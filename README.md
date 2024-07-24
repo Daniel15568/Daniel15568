@@ -28,7 +28,7 @@ Email: danielemakporuena1@gmail.com
 
 LinkedIn: www.linkedIn.com/in/daniel15568
 
-Website/Blog: 
+Website/Blog: https://medium.com/@danielemakporuena1
 
 
 **Contributions and Collaboration**
