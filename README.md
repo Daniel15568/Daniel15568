@@ -12,7 +12,7 @@ I am a data scientist with a strong background in machine learning, statistical 
 
 *Machine Learning*: Regression, Classification, Clustering, Neural Networks.
 
-*Data Visualization*: Matplotlib, Seaborn, PowerBI.
+*Data Visualization*: Matplotlib, Seaborn, Plotly, PowerBI.
 
 *Data Wrangling*: Pandas, Numpy, Data Cleaning, ETL Processes.
 
