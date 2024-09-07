@@ -33,4 +33,4 @@ Website/Blog: https://medium.com/@danielemakporuena1
 
 **Contributions and Collaboration**
 
-I love collaborating with fellow data enthusiasts and contributing to open-source projects. If you have a project or an idea you'd like to discuss, please don't hesitate to let me know.
+I am open to contributing to open-source projects. If you have a project or an idea you'd like to discuss, please don't hesitate to let me know.
